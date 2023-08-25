@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MetaWin (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "MetaWin (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
